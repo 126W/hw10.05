@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/122415129/221986241-cf2dd720-140a-4994-8b39-33d43103aadf.png)
 ---
 ### Задание 5.
-![image](https://user-images.githubusercontent.com/122415129/221999382-ef2e3486-ab88-4861-8158-439a2156eefa.png)
-![image](https://user-images.githubusercontent.com/122415129/221999560-19cb420b-174f-4a86-b4f7-146e5cc9ea81.png)
+![image](https://user-images.githubusercontent.com/122415129/222000087-8cc34129-9213-47f2-96a9-8917b76927d0.png)
+![image](https://user-images.githubusercontent.com/122415129/221999873-3a342b62-8212-4654-92f3-b8a3d70a30b5.png)
 
 ---
